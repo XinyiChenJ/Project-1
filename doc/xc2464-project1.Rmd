@@ -1,6 +1,7 @@
 ---
 title: "Project1"
 output:
+  pdf_document: default
   html_notebook:
     df_print: paged
   html_document:
