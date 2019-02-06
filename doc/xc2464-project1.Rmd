@@ -1,9 +1,10 @@
 ---
-title: "Project1"
+title: "Project1--What made you happy today? "
+author: "Xinyi Chen xc2464"
 output:
-  pdf_document: default
   html_notebook:
     df_print: paged
+  pdf_document: default
   html_document:
     df_print: paged
 ---
@@ -48,8 +49,6 @@ library("topicmodels")
 library("xml2")
 library("ggthemes")
 ```
-
-##What made you happy today? 
 
 ![](../figs/happy.jpeg){width=600px}
 
